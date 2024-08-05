@@ -1,2 +1,2 @@
-# equinox
-This is for my youtube channel tutorial.
+ Demo aurora
+ A new gen fashion site
